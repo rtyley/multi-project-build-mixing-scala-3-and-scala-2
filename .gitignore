@@ -1,2 +1,11 @@
+.idea
+target/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+.bsp
+
 *.class
 *.log
