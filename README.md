@@ -1,0 +1,1 @@
+# multi-project-build-mixing-scala-3-and-scala-2
